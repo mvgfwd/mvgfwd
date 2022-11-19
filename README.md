@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mvgfwd
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning sql, python, video, marketing, ...
+- 👋 Hi, I’m @Yonathan Simbolon
+- 👀 I’m interested in programming language, webdev, data science, data structure.
+- 🌱 I’m currently learning ReactJS Framework and Little knowledge about Backend (php, mysql,python)
 - 💞️ I’m looking to collaborate on whoever want to teach me
 - 📫 How to reach me linktr.ee/yireharmory
 
