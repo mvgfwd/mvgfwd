@@ -1,8 +1,9 @@
 -  Hi, I’m @Yonathan Simbolon
--  I’m interested in programming language, webdev, software engineering and data
--  I’m currently learning ReactJS Framework and Little knowledge about Backend (php, mysql,python)
--  I’m looking to collaborate on whoever want to teach me
+-  I’m interested in programming language, webdev, software engineering and Blockchain
+-  I’m ReactJS, Angular, NextJS Developer has Little knowledge about Backend (php, mysql,python)
+-  I’m looking for collaboration
 -  How to reach me linktr.ee/yireharmory
+-  Interested about Blockchain, Web3.
 
 Repository Desc:
 
@@ -18,14 +19,28 @@ Heavy Issue after several update:
 /cloning-fb
 /facebook-clone
 
-on-Going:
-/name-card-builder
+Solidity deployed on Sepholia:
+/crowdfunding-web3
+
+Solidity
+/lottery
 
 local-progress:
-/rock-paper-scissors-game
-/{remake fb with gmail auth}
+/nextjs-portfolio
+/my-agency-web
+/church-management-system
 
-##Collab work updated in /simple-introduction-portfolio
+Corporate:
+/sda-catalog
+/user-management
+/tools-management-system
+
+other collabs freelance:
+/iotec
+/anakjamanstore
+/casi
+/boardgame community (ranked system)
+
 <!---
 mvgfwd/mvgfwd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
