@@ -1,24 +1,23 @@
 -  Hi, I’m @Yonathan Simbolon
 -  I’m interested in programming language, webdev, software engineering, Blockchain and Web3
--  I’m ReactJS, Angular, NextJS Developer has Little knowledge about Backend (php, mysql,python)
 
 Repository Desc:
 Deployed:
+-  /portfolio https://www.yonathansimbolon.com/
 -  /hatiuron-design-system https://pattern.yonathansimbolon.com https://hatiuron-ui.vercel.app/
 -  /simple-introduction-portofolio  https://mvgfwd.github.io/simple-introduction-portfolio/
 -  /amajon  https://amajon-kappa.vercel.app/
--  /warteg-online  https://warteg-online-fa61gwudi-mvgfwd.vercel.app/
+-  /warteg-online  https://warteg-online-fa61gwudi-mvgfwd.vercel.app/ 
 
 Heavy Issue after several update:
 -  /cloning-fb
 -  /facebook-clone
 
 Solidity deployed on Sepholia:
--  /crowdfunding-web3 (deployed)
+-  /crowdfunding-web3 (deployed sepholia testnet)
 -  /lottery
 
 local-progress:
--  /nextjs-portfolio
 -  /my-agency-web
 -  /church-management-system
 
@@ -33,7 +32,7 @@ other collabs freelance:
 -  /iotec
 -  /anakjamanstore
 -  /casi
--  /boardgame community (ranked system)
+-  /boardgame community ranked system https://bpag-leaderboard.vercel.app/
 
 <!---
 mvgfwd/mvgfwd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
